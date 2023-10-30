@@ -1,0 +1,19 @@
+figure {
+    flex-flow: column;
+    padding: 5px;
+    margin: 50px;
+    max-width: 375px;
+    display: inline-flex;
+    border: 5px dotted;
+    margin-left: 100px;
+  }
+
+  figcaption {
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 3px;
+
+  }
+  
+ 

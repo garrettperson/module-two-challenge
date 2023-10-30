@@ -1,0 +1,101 @@
+* {
+    background-color: gray;
+}
+
+header {
+    padding: 20px;
+    background-color: darkblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+    background-color: darkblue;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 25px;
+    background-color: darkblue;
+}
+
+header nav ul {
+    list-style-type: none;
+    background-color: darkblue;
+}
+
+header nav ul li {
+    display: inline;
+    margin-left: 25px;
+    background-color: darkblue;
+}
+
+a {
+    color: white;
+    background-color: darkblue;
+}
+
+.water {
+    height: 200px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../assets/images/pexels-lisa-fotios-734973.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 100%;
+    display: inline-block;
+    margin-left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.content img {
+    max-height: 200px;
+}
+
+.content h2 {
+    margin-bottom: 50px;
+    font-size: 36px;
+}
+
+.body-of-page {
+    margin-bottom: 100px;
+    padding: 50px;
+    height: 150px;
+}
+
+.end-of-page {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 150px;
+}
+
+.end-of-page a {
+    background-color: gray;
+    color: black;
+}
+
+@media screen and (max-width: 768px) {
+    a {
+        
+    }
+}
+]
