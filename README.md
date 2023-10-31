@@ -20,11 +20,10 @@ Simply click on the link to view the website.
 
 Click on the available links to explore the page. 
 
-image of the site:
+image of the site: 
 
-```md
-    ![alt text](assets/images/Screenshot 2023-10-30 at 5.12.50 PM.png)
-    ```
+assets/images/Screenshot 2023-10-30 at 5.12.50 PM.png
+
 
 ## Credits
 
