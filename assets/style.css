@@ -138,6 +138,7 @@ a {
     border-radius: 25% 10%;
     margin-left: 100px;
     overflow: hidden;
+    position: relative;
  }
 
 .mod-one img:hover {
@@ -148,6 +149,7 @@ a {
     color: white;
     display: flex;
     font-size: 25px;
+    position: absolute;
 }
 
  @media (max-width: 767px) {
