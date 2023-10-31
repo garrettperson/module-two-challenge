@@ -50,3 +50,5 @@ and W3 Schools: https://www.w3schools.com/css/default.asp
 
 
 Link to the deployed website:
+
+https://garrettperson.github.io/module-two-challenge/
