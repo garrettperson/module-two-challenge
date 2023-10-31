@@ -29,8 +29,6 @@ assets/images/Screenshot 2023-10-30 at 5.12.50 PM.png
 
 Sources: 
 
-Used Eric Meyer's Reset CSS code: https://meyerweb.com/eric/tools/css/reset/
-
 Used some code from module-one-challenge: https://garrettperson.github.io/module-one-challenge/
 
 Used image of water from https://www.pexels.com/photo/body-of-water-photography-734973/ 
